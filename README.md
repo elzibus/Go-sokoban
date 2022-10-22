@@ -1,1 +1,9 @@
-# sokoban game implemented in [golang](https://go.dev) with the [ebitengine](https://ebitengine.org/) library.
+# sokoban game
+
+Implemented in [golang](https://go.dev)
+
+Using the [ebitengine](https://ebitengine.org/) library
+
+Sprites from https://kenney.nl/
+
+Sokoban levels from https://github.com/begoon/sokoban-maps
